@@ -34,10 +34,9 @@ The website will now be running locally and auto-reload on changes.
 
 ## Deployment
 
-The website is deployed on **Netlify** (or your preferred hosting).  
-All future updates pushed to GitHub will automatically redeploy the site if connected.
-
+The website is deployed on **Netlify** .
+Thank You for visiting :)
 ## Contact
 
 - **Email:** beastspectare@gmail.com  
-- **Portfolio Owner:** Aman
+- **Portfolio Owner:** Aman Dolani
